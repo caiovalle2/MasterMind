@@ -9,7 +9,7 @@ O projeto segue o padrão de arquitetura **MVC (Model-View-Controller)** e foi d
 
 ## 🎮 Regras do Jogo
 - O jogador deve adivinhar a senha oculta, que é uma sequência de cores.
-- O jogo possui **três níveis de dificuldade** (1, 2 e 3), escalonando o desafio.
+- O jogo possui **três níveis de dificuldade** (1, 2 e 3).
 - O jogador pode selecionar cores e posicioná-las no tabuleiro para formar uma tentativa de combinação.
 - O sistema fornece **feedback visual** sobre a tentativa:
   - ⚪ **Bola branca:** uma cor está correta, mas na posição errada.
@@ -24,3 +24,6 @@ O projeto segue o padrão de arquitetura **MVC (Model-View-Controller)** e foi d
 ## 🔥 Funcionalidades Adicionais
 - 💾 **Salvamento e carregamento de partidas**: O programa permite salvar o progresso de uma partida e carregá-la posteriormente.
 
+![Captura de tela 2025-03-29 093606](https://github.com/user-attachments/assets/ef6e3343-e1e3-46b8-b682-591f88b266f0)
+![Captura de tela 2025-03-29 091908](https://github.com/user-attachments/assets/ae105282-af3f-4725-91fc-ba6c0c2c823c)
+![Captura de tela 2025-03-29 093551](https://github.com/user-attachments/assets/47e35b68-4710-4dfb-885d-6d21dfb5ed17)
